@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Jardeson Ccarvalho 😁
+## Bem-vindo(a) ao perfil de Jardeson Carvalho 😁
 
 •	🌱 Tenho conhecimento em HTML <br>
 •	👨‍💻 Atualmente estou aprendendo CSS <br>
