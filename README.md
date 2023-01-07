@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil de Jardeson Carvalho 😁
 
-•	🌱 Tenho conhecimento em HTML <br>
-•	👨‍💻 Atualmente estou aprendendo CSS <br>
+•	🌱 Tenho conhecimento em HTML e CSS <br>
+•	👨‍💻 Atualmente estou aprendendo JavaScript <br>
 •	👨‍💻Todos os meus projetos estão disponíveis em https://github.com/jardesonvc?tab=repositories <br>
 •	🔗 Vamos nos conectar no meu Linkedin: https://bityli.com/linkedin-jardeson <br>
 •	📫 Como chegar até mim: jardeson_carvalho@hotmail.com <br>
