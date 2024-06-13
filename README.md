@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil de Jardeson Carvalho 😁
 
 •	🌱 Tenho conhecimento em HTML, CSS, SASS, JavaScript, React.js, TypeScript, Git e Github <br>
-•	👨‍💻 Atualmente estou aprendendo API <br>
+•	👨‍💻 Atualmente estou aprendendo Node.js <br>
 •	👨‍💻Todos os meus projetos estão disponíveis em https://github.com/jardesonvc?tab=repositories <br>
 •	🔗 Vamos nos conectar no meu Linkedin: https://bityli.com/linkedin-jardeson <br>
 •	📫 Como chegar até mim: jardeson_carvalho@hotmail.com <br>
