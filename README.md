@@ -1,10 +1,11 @@
 ## Bem-vindo(a) ao perfil de Jardeson Carvalho 😁
 
 •	🌱 Tenho conhecimento em HTML, CSS, SASS, JavaScript, React.js, TypeScript, Git e Github <br>
+•	👨‍💻 Graduação em Análise e Desenvolvimento de Sistemas, Senai/Fatesg, 2026 – Em andamento;
 •	👨‍💻 Atualmente estou aprendendo Python e Redux <br>
 •	👨‍💻Todos os meus projetos estão disponíveis em https://github.com/jardesonvc?tab=repositories <br>
-•	🔗 Vamos nos conectar no meu Linkedin: https://bityli.com/linkedin-jardeson <br>
-•	📫 Como chegar até mim: jardeson_carvalho@hotmail.com <br>
+•	🔗 Vamos nos conectar no meu Linkedin: https://www.linkedin.com/in/jardeson-carvalho-18263b144/ <br>
+•	📫 Como chegar até mim: jardesoncarvalho4@gmail.com <br>
 
 
  <div>
@@ -23,7 +24,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-<a href="https://www.instagram.com/carvalho_1292/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/jardeson_1292/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jardeson-carvalho-18263b144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/jardesonvc/jardesonvc/blob/output/github-contribution-grid-snake.svg)
