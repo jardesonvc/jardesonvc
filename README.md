@@ -2,6 +2,7 @@
 
 •	🌱 Tenho conhecimento em HTML, CSS, SASS, Java, JavaScript, React.js, TypeScript, Git e Github <br>
 •	👨‍💻 Graduação em Análise e Desenvolvimento de Sistemas, Senai/Fatesg, 2026 – Em andamento;
+
 •	👨‍💻 Atualmente estou aprendendo Python e Redux <br>
 •	👨‍💻Todos os meus projetos estão disponíveis em https://github.com/jardesonvc?tab=repositories <br>
 •	🔗 Vamos nos conectar no meu Linkedin: https://www.linkedin.com/in/jardeson-carvalho-18263b144/ <br>
