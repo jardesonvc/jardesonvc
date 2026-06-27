@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil de Jardeson Carvalho 😁
 
-•	🌱 Tenho conhecimento em HTML, CSS, SASS, JavaScript, React.js, TypeScript, Git e Github <br>
+•	🌱 Tenho conhecimento em HTML, CSS, SASS, Java, JavaScript, React.js, TypeScript, Git e Github <br>
 •	👨‍💻 Graduação em Análise e Desenvolvimento de Sistemas, Senai/Fatesg, 2026 – Em andamento;
 •	👨‍💻 Atualmente estou aprendendo Python e Redux <br>
 •	👨‍💻Todos os meus projetos estão disponíveis em https://github.com/jardesonvc?tab=repositories <br>
